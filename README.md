@@ -4,7 +4,7 @@ Auto restore WooCommerce inventory/stock when orders are cancelled or refunded.
 
 ## Description
 
-WooCommerce Registration Redirect will logout and redirect a user if they enabled account creation on checkout.
+WooCommerce Auto Restore Stock will auto restore stock when orders are cancelled.
 
 ## Installation
 
@@ -15,7 +15,7 @@ With WordPress 2.7 or above, you can simply go to Plugins > Add New in the WordP
 
 ### Manual Installation
 
-1. Upload the plugin file woocommerce-registration-redirect.zip to the ‘/wp-content/plugins/’ directory, or install the plugin through the WordPress plugins screen directly.
+1. Upload the plugin file woocommerce-auto-restore-stock.zip to the ‘/wp-content/plugins/’ directory, or install the plugin through the WordPress plugins screen directly.
 2. Activate the plugin through the ‘Plugins’ screen in WordPress.
 
 ## Changelog
