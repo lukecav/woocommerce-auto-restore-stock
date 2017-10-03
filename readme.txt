@@ -1,9 +1,8 @@
 === WooCommerce Auto Restore Stock ===
 Contributors: Kloon
-Donate link: http://gerhardpotgieter.com/donate/
 Tags: WooCommerce, stock, inventory, restore, cancelled, refunded
-Requires at least: 3.7
-Tested up to: 3.7.1
+Requires at least: 4.6
+Tested up to: 4.8.2
 Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
