@@ -6,7 +6,7 @@
  * Version: 1.0.1
  * Author: Gerhard Potgieter
  * Author URI: http://gerhardpotgieter.cim
-  * License:     MIT
+ * License:     MIT
  * License URI: https://opensource.org/licenses/MIT
  * Text Domain: woocommerce-auto-restore-stock
  * Domain Path: /languages
