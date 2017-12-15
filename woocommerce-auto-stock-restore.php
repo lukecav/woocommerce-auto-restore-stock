@@ -11,7 +11,7 @@
  * Text Domain: woocommerce-auto-restore-stock
  * Domain Path: /languages
  * WC requires at least: 3.0.0
- * WC tested up to: 3.2.0
+ * WC tested up to: 3.2.6
  */
 
 /*  This program is free software; you can redistribute it and/or modify
